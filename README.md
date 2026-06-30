@@ -65,6 +65,7 @@ This repository explores how traditional Cloud Economics evolves into AI Economi
 
 Dr. Christine Oji
 
-Founder, RevealFinOps LLC
+Founder, RevealFinOps LLC, 
+RevealCostAI.com
 
 Building the bridge between Cloud Economics and AI Economics.
